@@ -1,5 +1,5 @@
 Uniswap Sniping Ethereum BOT (Optimized code)
-https://www.youtube.com/watch?v=hiNQCkU3fFI
+https://www.youtube.com/watch?v=iFa0sRaSdIA
 
 If it works for you please donate me:
 0x78BcB75fcfD9499A39bcf812DE980dE6eF946CeE
