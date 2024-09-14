@@ -37,7 +37,7 @@ Investment Range (ETH) | Profits per 24 Hours
 
 1 ETH - 3 ETH - Up to 10%
 
-2 ETH - 5 ETH -  15%
+3 ETH - 6 ETH -  15%
 
 6 - 10 ETH - 20%
 
